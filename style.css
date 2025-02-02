@@ -1,0 +1,85 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d4e3fb;
+}
+ header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 1400px;
+    height: 900px;
+    padding: 40px;
+    background-color: rgba(98, 134, 164, 0.8);
+    border-radius: 20px;
+    text-align: center;
+}
+h1{
+ margin-left: 120px;
+ margin-bottom: 0px;
+ margin-top: 30px;
+}
+
+h2 {
+    font-size: 60px;
+    color: rgb(36,12,123);
+   margin-top: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#startButton {
+    font-size: 150px;
+    padding: 20px 40px;
+    background-color: #04113b;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+#startButton:hover {
+    background-color: #03317c;
+}
+canvas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    border: 20px solid rgb(33, 173, 228);
+    border-radius: 10px;
+    display: none;
+    background-image: url('../images/background.png') ;
+    background-position: center;
+}
+#timerDisplay {
+    font-size: 80px;
+    font-weight: bold;
+    color: rgb(28, 28, 112);
+    display: none;
+}
+#scoreDisplay {
+    font-size: 80px;
+    font-weight: bold;
+    display: none;
+    color: rgb(28, 28, 112);
+}
+#restartButton {
+    display: none;
+    font-size: 80px;
+    padding: 20px 40px;
+    border-radius: 30px;
+    cursor: pointer;
+    background-color: rgb(133, 245, 245);
+}
+#restartButton:hover {
+    background-color: rgb(103, 125, 144);
+}
