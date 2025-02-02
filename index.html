@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Arctic Dash</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="" />
+  <link rel="stylesheet" type="text/css" href="./css/style.css" />
+  <link rel="icon" href="favicon.png">
+</head>
+<header id="header">
+  <div class="text-container">
+    <h1 id="gameName"><img src="../images/logo.png"></h1>
+    <h2 id="gameDescription">Due to global warming the penguins have a hard time getting food...😢
+     Help this penguin to catch all the fish!🐟</h2>
+
+  <button id="startButton">Start</button>
+  </div></header>
+<body>
+  <canvas id="canvas" width="2000" height="2000"></canvas>
+  <script type="module" src="./scripts/modules/global.js"></script>
+  <script type="module" src="./scripts/modules/input.js"></script>
+  <script type="module" src="./scripts/modules/main.js"></script>
+  <div class="navbar">
+       <span id="timerDisplay">🕑: 120s</span>
+        <span id="scoreDisplay">🐟:</span>
+    <button id="restartButton">Retry</button>
+  </div>
+</body>
+</html>
