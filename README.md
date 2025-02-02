@@ -17,25 +17,25 @@
 
 ### Character:
 <div style="text-align: center;">
-  <img src="spritesheet.png" alt="Player Spritesheet">
+  <img src="spritesheet.png" alt="Player Spritesheet" width="400">
   <p>*Player character animations.*</p>
 </div>
 
 ### Enemies:
 <div style="text-align: center;">
-  <img src="enemys.png" alt="Enemy Spritesheet">
+  <img src="enemys.png" alt="Enemy Spritesheet" width="400">
   <p>*Enemy animations.*</p>
 </div>
 
 ### Object:
 <div style="text-align: center;">
-  <img src="ice.png" alt="Wall">
+  <img src="ice.png" alt="Wall" width="200">
   <p>*Picture about the wall in the game.*</p>
 </div>
 
 ### Collectible:
 <div style="text-align: center;">
-  <img src="fish.png" alt="Fish">
+  <img src="fish.png" alt="Fish" width="400">
   <p>*Picture about the collectible items.*</p>
 </div>
 
