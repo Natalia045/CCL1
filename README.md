@@ -1,53 +1,42 @@
 # CCL1
 # 🎮 Arctic Dash
 
-Dive into an exciting adventure with your penguin in this fast-paced game! Your goal is simple: collect all the fish while avoiding the enemy. Race against the clock to gather every fish before time runs out, but be careful—if the enemy catches you, it’s game over! 
+< Dive into an exciting adventure with your penguin in this fast-paced game! Your goal is simple: collect all the < fish while avoiding the enemy. Race against the clock to gather every fish before time runs out, but be careful—< if the enemy catches you, it’s game over! 
 
----
-
-## 🌐 **Play the Game**
-[Click here to play the game!](https://your-github-username.github.io/repository-name)
-
-
-
-
-### Main Gameplay:
+### Menu:
 <div style="text-align: center;">
-  <img src="gameplay.png" alt="Gameplay Screenshot" width="600">
-  <p>*Figure 1: Example of gameplay in action.*</p>
+  <img src="menu.PNG" alt="Menu Screenshot" width="600">
+  <p>*Menu*</p>
 </div>
 
-
-
-
-### Menu and UI:
+### Gameplay:
 <div style="text-align: center;">
-  <img src="menu.png" alt="Menu UI Screenshot" width="600">
-  <p>*Figure 2: Menu and user interface.*</p>
-</div>
-## 🎨 **Spritesheets**
-Below are the sprites used to create characters and objects in the game:
-
-### Player Character:
-<div style="text-align: center;">
-  <img src="playersheet.png" alt="Player Spritesheet" width="500">
-  <p>*Figure 3: Player character animations.*</p>
+  <img src="gameplay.PNG" alt="Gameplay Screenshot" width="600">
+  <p>*Example of gameplay action.*</p>
 </div>
 
----
-
-### Enemies and NPCs:
+### Character:
 <div style="text-align: center;">
-  <img src="enemysheet.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 4: Enemy animations.*</p>
+  <img src="spritesheet.png" alt="Player Spritesheet">
+  <p>*Player character animations.*</p>
 </div>
-## 🎨 **Spritesheets**
-Below are the sprites used to create characters and objects in the game:
 
-### Player Character:
+### Enemies:
 <div style="text-align: center;">
-  <img src="playersheet.png" alt="Player Spritesheet" width="500">
-  <p>*Figure 3: Player character animations.*</p>
+  <img src="enemys.png" alt="Enemy Spritesheet">
+  <p>*Enemy animations.*</p>
+</div>
+
+### Object:
+<div style="text-align: center;">
+  <img src="ice.png" alt="Wall">
+  <p>*Picture about the wall in the game.*</p>
+</div>
+
+### Collectible:
+<div style="text-align: center;">
+  <img src="fish.png" alt="Fish">
+  <p>*Picture about the collectible items.*</p>
 </div>
 
 ---
@@ -55,13 +44,14 @@ Below are the sprites used to create characters and objects in the game:
 ## ✍️ **Reflection**
 
 ### What went well:
-- **Creative Design:** The theme and style came together seamlessly, and the sprites were fun to design.
-- **Core Mechanics:** The gravity-based gameplay worked better than expected and provided a unique challenge.
+- I delivered a playable game.
+- The drawings turned out to be better than I expected.
+- I'm good at bug fixing.
 
 ### Challenges:
-- **Time Constraints:** Implementing all the features we envisioned wasn’t possible due to the limited timeframe.
-- **Bug Fixes:** Handling collisions and edge cases for gravity mechanics was tricky.
+- I had some implementation problems.
+- I don't really like the design.
 
 ### Lessons Learned:
-- **Prototyping Matters:** Testing early prototypes helped refine the core mechanics quickly.
-- **Keep it Simple:** Focusing on one unique mechanic instead of multiple features made the game more polished.
+- Don't be ashamed to ask for help.
+- The spritesheet needs to be even.
