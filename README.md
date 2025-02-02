@@ -1,18 +1,15 @@
 # CCL1
-# 🎮 **Game Title** 
+# 🎮 Arctic Dash
 
-> **Short Pitch**: A brief and catchy description of your game. Highlight the concept, genre, and key features.
-> 
-> *Example:* "Explore an alien planet in this retro-inspired platformer where gravity is your greatest ally—or enemy!"
+Dive into an exciting adventure with your penguin in this fast-paced game! Your goal is simple: collect all the fish while avoiding the enemy. Race against the clock to gather every fish before time runs out, but be careful—if the enemy catches you, it’s game over! 
 
 ---
 
 ## 🌐 **Play the Game**
 [Click here to play the game!](https://your-github-username.github.io/repository-name)
 
----
 
-## 📸 **Screenshots**
+
 
 ### Main Gameplay:
 <div style="text-align: center;">
@@ -20,7 +17,8 @@
   <p>*Figure 1: Example of gameplay in action.*</p>
 </div>
 
----
+
+
 
 ### Menu and UI:
 <div style="text-align: center;">
